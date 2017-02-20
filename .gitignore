@@ -1,0 +1,8 @@
+sbt/play-java/logs
+sbt/play-java/target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
